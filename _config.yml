@@ -1,0 +1,63 @@
+title: "Steve Mutuvi"
+description: "Bioinformatics Analyst, The Jackson Laboratory"
+about: "Data Scientist:- R RStudio Shiny Tidyverse Python Github"
+location: "Nairobi, Kenya"
+email: 
+baseurl: ""
+
+url: "http://smutuvi.github.io" # replace by your site's url
+
+twitter_username: mutuvi
+github_username:  smutuvi
+medium_username: "@stevemutuvi"
+#linkedin_username: simecekpetr
+#scholar_username: 248ewekAAAAJ
+author: "Steve Mutuvi"
+
+# google analytics tracking code, please change the value
+g_analytics: "UA-90647482-1"
+
+# language settings
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Twitter"
+posts_btn: "Blog"
+middle_btn: ".......A fact-based world view......."
+
+imprint_btn: ""
+name_badge: ""
+rss_badge: "Subscribe feed!"
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    tab_width: 4
+
+# third party gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md

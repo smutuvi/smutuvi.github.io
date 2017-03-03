@@ -1,0 +1,9 @@
+- name: project 1
+  link: "http://applyr.blogspot.com/"
+  description: "Blog"
+- name: project 2
+  link: "https://twitter.com/simecek42"
+  description: "Twitter"
+- name: project 3
+  link: "/blog"
+  description: "Too long for tweet, too short to post"
