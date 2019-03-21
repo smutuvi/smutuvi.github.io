@@ -21,8 +21,8 @@ g_analytics: "UA-90647482-1"
 isolang: en
 close_btn: "Close"
 home_btn: "Home"
-#projects_btn: "Twitter"
-posts_btn: "View Blog"
+projects_btn: "Projects"
+posts_btn: "Blog"
 middle_btn: "......AI for Social Good......."
 
 imprint_btn: ""
