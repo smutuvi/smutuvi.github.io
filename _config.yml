@@ -1,6 +1,7 @@
 title: "Steve Mutuvi"
 description: "AI Related Content"
-about: "Data Scientist:- R, Python, Machine Learning, Deep Learning"
+# about: "Data Scientist:- R, Python, Machine Learning, Deep Learning"
+about: "Research Scientist:- NLP <- Deep Learning <- Machine Learning"
 location: "Nairobi, Kenya"
 email: 
 baseurl: ""
@@ -23,7 +24,8 @@ close_btn: "Close"
 home_btn: "Home"
 projects_btn: "Projects"
 posts_btn: "Blog"
-middle_btn: "......AI for Social Good......."
+middle_btn: "......Thesis......."
+# middle_btn: "......AI for Social Good......."
 
 imprint_btn: ""
 name_badge: ""
